@@ -1,0 +1,33 @@
+/* .conteudo-margin {
+    margin-top: 55px;
+} */
+
+
+.Art{
+    display: flex;
+        flex-wrap: wrap;
+        row-gap: 2em;
+        display: block;
+        gap: 1em;
+
+} 
+
+.Artcard {
+    gap: 3em;
+    margin-left: 1em;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.active.nav-link {
+    color: #ffd000 !important;
+    border-bottom: 1px solid #ffd000 !important;
+}
+
+.nav-link{
+    border-bottom: 1px solid transparent;
+    color: #ffd000;
+}
+.Nav{
+    background-color: blanchedalmond;
+    display: block;
+}
